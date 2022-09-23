@@ -19,5 +19,18 @@
     "format": "./package.sh both run format",
     "format:fix": "./package.sh both run format:fix",
     "postinstall": "./package.sh both install"
-  }
+  },
+  "description": "The Break Solana Game consists of a 3 parts: a web client frontend, a web server backend, and an on-chain Solana program. The web server backend\r is not strictly required but it helps with certain performance improvements.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gurianos/break.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gurianos/break/issues"
+  },
+  "homepage": "https://github.com/Gurianos/break#readme"
 }
